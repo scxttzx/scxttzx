@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Falaa, tudo tranquilo? Prazer, me chamo Gabriel Mattos 👋
+<h3 align="center">Sou um desenvolvedor apaixonado pela área e busco cada vez mais conhecimento!</h3>
 <!--
 **scxttzx/scxttzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<p>Como devem imaginar pela minha escolha de carreira, sou uma pessoa totalmente movido por desafios e pelos impactos que a tecnologia causa em nosso dia a dia. E, sinceramente, qual lugar melhor para encontrar esses desafios, se não no universo da programação? Trabalho no Instituto SENAI Inovação em Química Verde, onde tenho tido a chance de me aprofundar em tecnologias como JavaScript, C# e Python. Para mim, o desenvolvimento back-end vai muito além de um simples interesse; é uma verdadeira paixão. Estou constantemente em busca de aprendizado e espero, ao longo do tempo, construir um portfólio sólido e adquirir bastante experiência. Acredito que cada projeto é uma nova chance de evoluir, desde o primeiro código até o produto final.</p>
+
+
+
+
+
+- 📫 Como entrar em contato comigo **gabrielmbserra@gmail.com**
