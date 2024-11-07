@@ -13,7 +13,7 @@
 ##
 
 
-<br>
+
 <div style="display: inline-block">
           <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
           <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
@@ -21,7 +21,7 @@
           <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
           <img align="center" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
-<br>
+
           
           
 ##
