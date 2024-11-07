@@ -31,15 +31,15 @@
 <a href="mailto:gabrielmbserra@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </a>
-<a href="https://discord.gg/" target="_blank">
-          <img src="https://img.shield.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
-</a>
 
 
 
 <!--
 **scxttzx/scxttzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://discord.gg/" target="_blank">
+          <img src="https://img.shield.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
