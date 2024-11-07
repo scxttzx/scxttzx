@@ -4,8 +4,9 @@
 
 <a href="">
           <img height:="180em" src="https://github-readme-stats.vercel.app/api?username=scxttzx&show_icons=true&theme=transparent">
+          <img height:="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scxttzx&layout=compact&langs_count=16&theme=transparent>
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p>Como devem imaginar pela minha escolha de carreira, sou uma pessoa totalmente movido por desafios e pelos impactos que a tecnologia causa em nosso dia a dia. E, sinceramente, qual lugar melhor para encontrar esses desafios, se não no universo da programação? Trabalho no Instituto SENAI Inovação em Química Verde, onde tenho tido a chance de me aprofundar em tecnologias como JavaScript, C# e Python. Para mim, o desenvolvimento back-end vai muito além de um simples interesse; é uma verdadeira paixão. Estou constantemente em busca de aprendizado e espero, ao longo do tempo, construir um portfólio sólido e adquirir bastante experiência. Acredito que cada projeto é uma nova chance de evoluir, desde o primeiro código até o produto final.</p>
 
