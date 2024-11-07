@@ -52,7 +52,3 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-- 📫 Como entrar em contato comigo **gabrielmbserra@gmail.com**
