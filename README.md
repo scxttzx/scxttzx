@@ -1,5 +1,5 @@
-## Falaa, tudo tranquilo? Prazer, me chamo Gabriel Mattos 👋
-<h3 align="center">Sou um desenvolvedor apaixonado pela área e busco cada vez mais conhecimento!</h3>
+## Gabriel Mattos 👋
+<h3 align="center">Falaa, tudo tranquilo? Prazer, me chamo  Gabriel Mattos. Sou um desenvolvedor apaixonado pela área e busco cada vez mais conhecimento!</h3>
 <!--
 **scxttzx/scxttzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
