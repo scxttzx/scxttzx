@@ -25,11 +25,11 @@
           
           
 ##
-<a href="https://www.linkedin.com/in/gbmattos567/" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+<a href="https://www.linkedin.com/in/gbmattos567/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
 </a>
 <a href="mailto:gabrielmbserra@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"/>
 </a>
 
 
